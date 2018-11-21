@@ -9,7 +9,7 @@ Build-Depends: debhelper (>= 11),
                python-setuptools,
                python3-all,
                python3-setuptools
-Standards-Version: 4.1.4
+Standards-Version: 3.9.6
 Homepage: https://github.com/workhorsy/py-cpuinfo
 Testsuite: autopkgtest-pkg-python
 X-Python-Version: >= 2.6
